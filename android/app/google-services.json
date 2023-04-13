@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270723264947",
+    "project_id": "applimobile-266c9",
+    "storage_bucket": "applimobile-266c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270723264947:android:7cb6eb9f800a0860375bc6",
+        "android_client_info": {
+          "package_name": "com.lucas.projetDevMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270723264947-cmoma567jvkh3b3i6jav66ejckt90t9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqp-xKtDmYTuqHh3Ix2bE0OCpL6m3dpCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270723264947-cmoma567jvkh3b3i6jav66ejckt90t9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
